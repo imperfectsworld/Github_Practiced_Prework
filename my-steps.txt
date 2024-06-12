@@ -136,7 +136,13 @@ $ git remote -v
 
 ### Step 6
 
-
+$ touch menu.txt
+$ ls
+$ git status
+$ git add menu.txt my-steps.txt
+$ git commit -m "2nd commit for practice prework"
+$ git status
+$ git push
 
 
 
