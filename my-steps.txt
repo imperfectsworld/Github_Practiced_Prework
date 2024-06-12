@@ -116,12 +116,30 @@ $ rm -r drinks
 
 
 ### Step 4
-
+$ cd /c/users/imper/Desktop/unit1-git-practice/
+$ git init
+$ git add .
+$ git status
+$ git commit -m "first commit for practice pre work"
 
 ### Step 5
+$ git remote add origin https://github.com/imperfectsworld/Github_Practiced_Prework.git
+git branch -M main
+git push -u origin main
+
+
+// I realized that i used the wrong name for the repo so i did a rename in github then changed the local repo as well to match
+
+$ git remote set-url origin https://github.com/imperfectsworld/unit1-git-practice.git
+$ git remote -v
 
 
 ### Step 6
+
+
+
+
+
 
 
 ### Step 7
